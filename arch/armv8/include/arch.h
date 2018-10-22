@@ -1,4 +1,5 @@
 #include <sys/uio.h>
+#include <sys/types.h>
 #include <stdint.h>
 
 #define TRAP 0xd4200020

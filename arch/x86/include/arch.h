@@ -1,4 +1,5 @@
 #include <sys/uio.h>
+#include <sys/types.h>
 
 #define TRAP 0xcc // int3
 #define TRAP_SZ 1
